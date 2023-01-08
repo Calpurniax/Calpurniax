@@ -3,7 +3,7 @@
 Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) new world 🪐
 
 ### Some info
-- I'm learning more React (Native React precisely)
+- I'm learning C#
 - Working on improve our Adalab Team Projects
 - Pronouns: she/her
 
