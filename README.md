@@ -4,7 +4,7 @@ Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) n
 
 ### Some info
 - I'm learning C#
-- Working on improve our Adalab Team Projects
+- Working on improve our Adalab Team Projects and consolidate what I've learnt
 - Pronouns: she/her
 
 ### Fun facts about me:
