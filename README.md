@@ -3,7 +3,7 @@
 Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) new world 🪐
 
 ### Some info
-- I'm learning C#
+- I'm learning Angular
 - Working on improve our Adalab Team Projects and consolidate what I've learnt
 - Pronouns: she/her
 
