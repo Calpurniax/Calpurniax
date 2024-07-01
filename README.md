@@ -3,8 +3,8 @@
 Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) new world 🪐
 
 ### Some info
-- I'm learning Angular
-- Working on improve our Adalab Team Projects and consolidate what I've learnt
+- I'm learning cloud development
+- Working on a figma wireframe for SaaS
 - Pronouns: she/her
 
 ### Fun facts about me:
