@@ -1,6 +1,6 @@
 ## Web Developer 👋
 
-Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) new world 🪐
+Hi! Im full stack developer, searching for work in this amazing tech world 🪐
 
 ### Some info
 - I'm learning cloud development
