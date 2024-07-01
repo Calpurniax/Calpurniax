@@ -1,4 +1,4 @@
-## Junior Web Developer 👋
+## Web Developer 👋
 
 Hi! Im a crispy and fresh baked Developer, searching for work in this (for me) new world 🪐
 
