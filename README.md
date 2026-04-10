@@ -4,13 +4,13 @@ Hi! Im full stack developer, searching for work in this amazing tech world 🪐
 
 ### Some info
 - I'm learning cloud development
-- Working on a figma wireframe for SaaS
+- Developing the front‑end of a people management application
 - Pronouns: she/her
 
 ### Fun facts about me:
 - Used to be a technician 🎬 I shot with a Bardem, ask me which one! 
 - Some of our shortfilms are in [youtube](https://youtu.be/gAFH1xrQZrc)
-- Enjoy different things like planting tomatoes 🍅 playing japanese drums or videogames, taking naps...
+- Enjoy different things like planting tomatoes 🍅 reading, playing videogames, taking naps...
 
 
 <!--
